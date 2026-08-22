@@ -23,8 +23,8 @@ The repository is a work in progress and will be updated regularly as I continue
 | 5  | Greedy Algorithms                       | ✅ Completed    |
 | —  | Periodic Practice 1                     | ✅ Completed    |
 | 6  | Dynamic Programming                     | ✅ Completed    |
-| 7  | Backtracking Algorithms                 | 🔄 In Progress |
-| 8  | Divide and Conquer                      | ⏳ Not Started  |
+| 7  | Backtracking Algorithms                 | ✅ Completed    |
+| 8  | Divide and Conquer                      | 🔄 In Progress  |
 | —  | Periodic Practice 2                     | ⏳ Not Started  |
 | 9  | Data Structures                         | ⏳ Not Started  |
 | 10 | Preprocessing and Optimization          | ⏳ Not Started  |
